@@ -10,8 +10,10 @@ I am a recent 12th-grade graduate building a strong foundation in Software Engin
 
 ## 📂 Repository Roadmap & Progress
 As I progress through the interactive curriculum, I upload my code challenges here:
-- [ ] **Python Basics & Logic** (Variables, Loops, and Functions)
+- [ ] **Python Basics**
+- [ ] **Loops and Sequences**
 - [ ] **Data Structures** (Lists, Dictionaries, and Sets)
+- [ ] **Error Handling**
 - [ ] **Object-Oriented Programming** (Classes, Objects, and Inheritances)
 - [ ] **Algorithms** (Search, Sort, and Linear Structures)
 
@@ -19,9 +21,9 @@ As I progress through the interactive curriculum, I upload my code challenges he
 I am actively working toward coding the 5 required core projects:
 1. 🧮 **Budget App** - *Pending*
 2. 📐 **Polygon Area Calculator** - *Pending*
-3. 📦 **User Configuration Manager / Hash Table** - *Pending*
+3. 📦 **User Configuration Manager** - *Pending*
 4. 🏗️ **Tower of Hanoi Algorithm** - *Pending*
-5. 📊 **Arithmetic Formatter / Probability Calculator** - *Pending*
+5. 📊 **Hash Table** - *Pending*
 
 ## 💻 My Dev Environment
 * **Language:** Python 3.x
