@@ -2,7 +2,7 @@
 
 Welcome! This repository tracks my daily progress, exercises, and projects as I complete the official **Python Certification Course** on freeCodeCamp. 
 
-I am a recent 12th-grade graduate building a strong foundation in Software Engineering and logical problem-solving.
+I  recently completed my 12th-grade and now I am building a strong foundation in Software Engineering and logical problem-solving.
 
 ## 🎯 Current Goal
 * 🎓 **Target:** Earn the freeCodeCamp Verified Python Developer Certification.
