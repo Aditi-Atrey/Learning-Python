@@ -10,7 +10,7 @@ I  recently completed my 12th-grade and now I am building a strong foundation in
 
 ## 📂 Repository Roadmap & Progress
 As I progress through the interactive curriculum, I upload my code challenges here:
-- [ ] **Python Basics**
+- [x ] **Python Basics**
 - [ ] **Loops and Sequences**
 - [ ] **Data Structures** (Lists, Dictionaries, and Sets)
 - [ ] **Error Handling**
