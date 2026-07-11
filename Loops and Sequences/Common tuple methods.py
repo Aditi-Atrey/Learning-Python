@@ -1,4 +1,4 @@
-#Common Tuples Method
+#Common Tuple Method
 
 fruits = ("plum", "apple", "grapes", "plum", "banana")
 print(fruits.count("plum"))
