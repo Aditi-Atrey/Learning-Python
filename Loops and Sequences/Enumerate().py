@@ -2,7 +2,7 @@
 
 languages = ["Spanish", "English", "Russian", "Chinese"]
 
-#Method 1
+#Method 1 (not by enumerate())
 
 index = 0
 
