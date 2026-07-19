@@ -11,11 +11,15 @@ I  recently completed my 12th-grade and now I am building a strong foundation in
 ## 📂 Repository Roadmap & Progress
 As I progress through the interactive curriculum, I upload my code challenges here:
 - [x] **Python Basics**
-- [ ] **Loops and Sequences**
-- [ ] **Data Structures** (Lists, Dictionaries, and Sets)
+- [x] **Loops and Sequences**
+- [ ] **Dictionaries and Sets** 
 - [ ] **Error Handling**
-- [ ] **Object-Oriented Programming** (Classes, Objects, and Inheritances)
-- [ ] **Algorithms** (Search, Sort, and Linear Structures)
+- [ ] **Classes and Objects**
+- [ ] **Object-Oriented Programming**
+- [ ] **Linear Data Structures** 
+- [ ] **Algorithms**
+- [ ] **Graphs and Trees**
+- [ ] **Dynamic Programming**
 
 ## 🏆 Upcoming Certification Projects
 I am actively working toward coding the 5 required core projects:
