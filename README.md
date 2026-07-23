@@ -12,7 +12,7 @@ I  recently completed my 12th-grade and now I am building a strong foundation in
 As I progress through the interactive curriculum, I upload my code challenges here:
 - [x] **Python Basics**
 - [x] **Loops and Sequences**
-- [ ] **Dictionaries and Sets** 
+- [x] **Dictionaries and Sets** 
 - [ ] **Error Handling**
 - [ ] **Classes and Objects**
 - [ ] **Object-Oriented Programming**
