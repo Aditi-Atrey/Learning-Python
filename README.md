@@ -5,7 +5,7 @@ Welcome! This repository tracks my daily progress, exercises, and projects as I 
 I  recently completed my 12th-grade and now I am building a strong foundation in Software Engineering and logical problem-solving.
 
 ## 🎯 Current Goal
-* 🎓 **Target:** Earn the freeCodeCamp Verified Python Developer Certification.
+* 🎓 **Target:** Earn the freeCodeCamp Verified Python Developer Certification and learn Python.
 * 🛠️ **Status:** Completing interactive modules, labs, and core projects.
 
 ## 📂 Repository Roadmap & Progress
