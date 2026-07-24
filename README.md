@@ -25,7 +25,7 @@ As I progress through the interactive curriculum, I upload my code challenges he
 I am actively working toward coding the 5 required core projects:
 1. 🧮 **Budget App** - *Pending*
 2. 📐 **Polygon Area Calculator** - *Pending*
-3. 📦 **User Configuration Manager** - *Working on*
+3. 📦 **User Configuration Manager** - *Completed*
 4. 🏗️ **Tower of Hanoi Algorithm** - *Pending*
 5. 📊 **Hash Table** - *Pending*
 
