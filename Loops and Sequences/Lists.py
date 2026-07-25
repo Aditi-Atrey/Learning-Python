@@ -1,5 +1,3 @@
-#Lists
-
 cities = ["Nagpur", "Mumbai", "Pune"]
 print(cities[0])
 print(cities[-1])
