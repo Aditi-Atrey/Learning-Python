@@ -1,4 +1,3 @@
-#Numbers and Mathematical Operators
 x = 8
 y = -3
 z = 5
