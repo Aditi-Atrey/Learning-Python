@@ -1,5 +1,3 @@
-#List Comprehension
-
 even_num = []
 
 for num in range(21):
