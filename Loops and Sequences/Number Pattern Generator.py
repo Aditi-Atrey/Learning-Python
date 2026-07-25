@@ -1,5 +1,3 @@
-#Number Pattern Generator
-
 def number_pattern(n):
     
     if not isinstance(n, int):
