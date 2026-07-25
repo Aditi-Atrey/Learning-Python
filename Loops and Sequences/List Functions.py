@@ -1,5 +1,3 @@
-#List Functions
-
 #1. filter()
 
 words = ["tree", "sun", "mountain", "sky", "cloud", "river"]
