@@ -1,5 +1,3 @@
-#Strings
-
 #Multiline strings
 print("Hello world, how are you?")
 print("""Hello world
