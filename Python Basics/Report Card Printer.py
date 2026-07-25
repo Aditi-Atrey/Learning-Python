@@ -1,5 +1,3 @@
-#Build a report card printer
-
 name = 'Alice'
 print(name, type(name))
 
