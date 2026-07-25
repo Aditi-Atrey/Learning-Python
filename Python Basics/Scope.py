@@ -1,5 +1,3 @@
-#Scope
-
 #Local Scope
 def my_func():
     my_var = 10
