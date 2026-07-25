@@ -1,5 +1,3 @@
-#Apply discount function
-
 def apply_discount(price, discount):
 
     if not isinstance(price, (int, float)):
