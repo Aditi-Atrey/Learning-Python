@@ -1,5 +1,3 @@
-#Common Tuple Method
-
 fruits = ("plum", "apple", "grapes", "plum", "banana")
 print(fruits.count("plum"))
 print(fruits.index("apple"))
