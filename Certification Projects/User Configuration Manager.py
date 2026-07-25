@@ -1,5 +1,3 @@
-#User Configuration Manager
-
 test_settings = {
     'theme': 'light',
     'notifications':'enabled',
