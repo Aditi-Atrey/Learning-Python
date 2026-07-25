@@ -1,5 +1,3 @@
-# RPG Character
-
 full_dot = '●'
 empty_dot = '○'
 def create_character(name, strenght, intelligence, charisma):
