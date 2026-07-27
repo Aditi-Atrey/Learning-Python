@@ -1,5 +1,3 @@
-#Standard Libraries and Modules
-
 #Put import at top of the file
 
 import math
