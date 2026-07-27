@@ -1,5 +1,3 @@
-#Dictionary
-
 pizza = {
     "name": "Margherita Pizza",
     "price": 8.9,
