@@ -1,5 +1,3 @@
-#Using Loops in Dictionary
-
 products = {
     "Laptop": 990,
     "Smartphone": 600,
