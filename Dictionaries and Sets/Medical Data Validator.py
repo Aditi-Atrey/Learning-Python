@@ -1,5 +1,3 @@
-#Medical Data Validator
-
 import re
 
 medical_records = [
