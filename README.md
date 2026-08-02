@@ -2,8 +2,6 @@
 
 Welcome! This repository tracks my daily progress, exercises, and projects as I complete the official **Python Certification Course** on freeCodeCamp. 
 
-I  recently completed my 12th-grade and now I am building a strong foundation in Software Engineering and logical problem-solving.
-
 ## 🎯 Current Goal
 * 🎓 **Target:** Earn the freeCodeCamp Verified Python Developer Certification and learn Python.
 * 🛠️ **Status:** Completing interactive modules, labs, and core projects.
@@ -35,4 +33,4 @@ I am actively working toward coding the 5 required core projects:
 * **IDE / Editors:** IDLE
 
 ---
-*Feel free to star ⭐ this repository to follow my developer journey!*
+*Feel free to star ⭐ this repository to follow*
