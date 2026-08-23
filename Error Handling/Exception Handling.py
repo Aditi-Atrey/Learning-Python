@@ -23,4 +23,10 @@ except ZeroDivisionError:
 try:
     x = 1/0
 except ZeroDivisionError as e:
-    print(f"Error occured: {e}")
+    print(f"Error occurred: {e}")
+
+try:
+    num = int(input("Enter a number: "))
+    result = 10 / num
+except (ValueError, ZeroDivisionError) as e:
+    print(f"Error occurred: {e}")
