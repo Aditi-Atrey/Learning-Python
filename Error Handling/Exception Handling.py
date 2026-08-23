@@ -19,3 +19,8 @@ except ValueError:
     print("This is an invalid number.")
 except ZeroDivisionError:
     print("You can't divide by 0!")
+
+try:
+    x = 1/0
+except ZeroDivisionError as e:
+    print(f"Error occured: {e}")
