@@ -1,5 +1,4 @@
 #Example 1
-
 def check_age(age):
     if age < 0:
         raise ValueError("Age cannot be negative.")
