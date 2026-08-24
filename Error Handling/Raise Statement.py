@@ -47,3 +47,12 @@ def parse_config(filename):
     except ValueError as e:
         raise ValueError("Invalid configuration format") from e
 config = parse_config("config.txt")
+
+#Example 5
+def calculate_square_root(num):
+    assert num >= 0, "Cannot calculate square root of negative number"
+    return num ** 0.5
+try:
+    result = calculate_square_root(-4)
+except AssertionError as e:
+    print(f"Assertion failed: {e}")
