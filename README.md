@@ -11,7 +11,7 @@ As I progress through the interactive curriculum, I upload my code challenges he
 - [x] **Python Basics**
 - [x] **Loops and Sequences**
 - [x] **Dictionaries and Sets** 
-- [ ] **Error Handling**
+- [x] **Error Handling**
 - [ ] **Classes and Objects**
 - [ ] **Object-Oriented Programming**
 - [ ] **Linear Data Structures** 
