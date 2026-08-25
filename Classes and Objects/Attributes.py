@@ -1,9 +1,9 @@
 #Example 1
 class Dog:
-    species = "French Bulldog" #Class Attribute
+    species = "French Bulldog"   #Class Attribute
 
     def __init__(self, name):
-        self.name = name #Instance Attribute
+        self.name = name         #Instance Attribute
 
 print(Dog.species)
 
