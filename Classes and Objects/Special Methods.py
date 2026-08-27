@@ -50,3 +50,25 @@ class Cart:
 
     def __iter__(self):
         return iter(self.items)
+
+cart = Cart()
+cart.add("Laptop")
+cart.add("Mouse")
+cart.add("Keyboard")
+cart.add("Monitor")
+
+for item in cart:
+    print(item, end = " ")
+
+print()
+print(len(cart))
+print(cart[3])
+
+print("Monitor" in cart)
+print("Banana" in cart)
+
+cart.remove("Keyboard")
+
+print(cart.list_items())
+
+cart.remove("Banana")
