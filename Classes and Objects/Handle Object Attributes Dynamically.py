@@ -1,4 +1,4 @@
-#getattr()
+#Example 1 - getattr()
 class Person:
     def __init__(self, name, age):
         self.name = name
