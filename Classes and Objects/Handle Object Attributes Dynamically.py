@@ -39,3 +39,20 @@ for attr_name, attr_value in settings_data.items():
 
 print(config_obj.server_url)
 print(config_obj.timeout_sec)
+
+# Example 3 - hasattr()
+class Product:
+    def __init__(self, name, price):
+        self.name = name
+        self.price = price
+
+product_a = Product("Top", 25)
+
+required_attributes = ["name", "price", "inventory_id"]
+
+for attr in required_attributes:
+    if not hasattr(product_a, attr):
+        print(f"ERROR: Product is missing the required attribute: '{attr}'")
+    else:
+        # Access the attributes dynamically once their existence is confirmed
+        print(f"{attr}: {getattr(product_a, attr)}")
