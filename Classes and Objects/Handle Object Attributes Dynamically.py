@@ -1,4 +1,4 @@
-#Example 1 - getattr()
+# Example 1 - getattr()
 class Person:
     def __init__(self, name, age):
         self.name = name
@@ -19,3 +19,23 @@ for attr in dir(person):
     if not attr.startswith("__") and not callable(getattr(person, attr)):
         value = getattr(person, attr)
         print(f"{attr}: {value}")
+
+# Example 2 - setattr()
+class Configuration:
+    pass
+
+# Data loaded at runtime (like from a config or env file)
+settings_data = {
+    "server_url": "https://api.example.com",
+    "timeout_sec": 30,
+    "max_reties": 5
+    }
+
+config_obj = Configuration()
+
+# Dynamically set attributes using dictionary keys and values
+for attr_name, attr_value in settings_data.items():
+    setattr(config_obj, attr_name, attr_value)
+
+print(config_obj.server_url)
+print(config_obj.timeout_sec)
