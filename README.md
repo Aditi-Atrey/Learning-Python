@@ -21,7 +21,7 @@ As I progress through the interactive curriculum, I upload my code challenges he
 
 ## 🏆 Upcoming Certification Projects
 I am actively working toward coding the 5 required core projects:
-1. 🧮 **Budget App** - *Pending*
+1. 🧮 **Budget App** - *Working on*
 2. 📐 **Polygon Area Calculator** - *Pending*
 3. 📦 **User Configuration Manager** - *Completed*
 4. 🏗️ **Tower of Hanoi Algorithm** - *Pending*
