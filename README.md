@@ -12,7 +12,7 @@ As I progress through the interactive curriculum, I upload my code challenges he
 - [x] **Loops and Sequences**
 - [x] **Dictionaries and Sets** 
 - [x] **Error Handling**
-- [ ] **Classes and Objects**
+- [x] **Classes and Objects**
 - [ ] **Object-Oriented Programming**
 - [ ] **Linear Data Structures** 
 - [ ] **Algorithms**
