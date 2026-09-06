@@ -19,10 +19,12 @@ class Category:
         if self.check_funds(amount):
             self.balance -= amount
             self.spending += amount
-            self.ledger.append({
+            self.ledger.append(
+                {
                 'amount': -amount,
                 'description': description
-            })
+            }
+            )
             return True
         return False
 
