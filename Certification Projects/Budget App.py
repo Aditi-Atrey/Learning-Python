@@ -45,30 +45,20 @@ class Category:
 
     def __str__(self):
         title = self.name.center(30, '*') + '\n'
-
         items = ''
         total = 0
-
         for entry in self.ledger:
             amount_str = f"{entry['amount']:.2f}"
             desc_str = entry['description'][:23]
-
             items += f"{desc_str:<23}{amount_str:>7}\n"
-
             total += entry['amount']
-
         total_line = f"Total: {total:.2f}"
-
         return title + items + total_line
 
 
 def create_spend_chart(categories):
-    # --------------------------------
     # Calculate spending per category
-    # --------------------------------
-
     spending = []
-
     for category in categories:
         category_total = 0
 
@@ -83,10 +73,9 @@ def create_spend_chart(categories):
     # Total spending across all categories
     total_spending = sum(spending)
 
-    # --------------------------------
+   
     # Calculate percentages
-    # --------------------------------
-
+    
     percentages = []
 
     for amount in spending:
@@ -100,9 +89,9 @@ def create_spend_chart(categories):
 
         percentages.append(percentage)
 
-    # --------------------------------
+    
     # Build chart
-    # --------------------------------
+    
 
     chart = "Percentage spent by category\n"
 
@@ -121,20 +110,17 @@ def create_spend_chart(categories):
         # Two spaces after the final bar
         chart += " \n"
 
-    # --------------------------------
+    
     # Horizontal line
-    # --------------------------------
+    
 
     chart += "    " + "-" * (3 * len(categories) + 1) + "\n"
 
-    # --------------------------------
+    
     # Category names vertically
-    # --------------------------------
+    
 
-    max_name_length = max(
-        len(category.name)
-        for category in categories
-    )
+    max_name_length = max(len(category.name)for category in categories)
 
     for i in range(max_name_length):
 
