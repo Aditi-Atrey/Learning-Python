@@ -33,22 +33,12 @@ class Category:
 
     def transfer(self, amount, destination):
         if self.check_funds(amount):
-            self.withdraw(
-                amount,
-                f'Transfer to {destination.name}'
-            )
-
+            self.withdraw(amount, f'Transfer to {destination.name}')
             # A transfer is not considered spending
             self.spending -= amount
-
-            destination.deposit(
-                amount,
-                f'Transfer from {self.name}'
-            )
-
+            destination.deposit(amount, f'Transfer from {self.name}')
             return True
-
-        return False
+    return False
 
     def check_funds(self, amount):
         return self.balance >= amount
