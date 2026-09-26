@@ -1,17 +1,17 @@
 class Wallet:
-  def __init__(self, balance):
-    self.__balance = balance #Private Attribute
+    def __init__(self, balance):
+        self.__balance = balance #Private Attribute
 
-  def deposit(self, amount):
-    if amount > 0:
-      self.__balance += amount #Add to balance safely
+    def deposit(self, amount):
+        if amount > 0:
+            self.__balance += amount #Add to balance safely
 
-  def withdraw(self, amount):
-    if 0 < amount <= self.__balance:
-      self.__balance -= amount #Remove from balance safely
+    def withdraw(self, amount):
+        if 0 < amount <= self.__balance:
+            self.__balance -= amount #Remove from balance safely
 
-  def get_balance(self):
-    return self.__balance #To get current balance
+    def get_balance(self):
+        return self.__balance #To get current balance
 
 acct_1 = Wallet(100)
 acct_1.deposit(50)
